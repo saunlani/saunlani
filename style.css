@@ -1,0 +1,122 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+body {
+  background-color: #233D4D;
+  padding-bottom: 150px;
+  width:100%;
+  margin:auto;}
+
+p{font-family:sans-serif; color: #e2e2e2;}
+a{color: #e2e2e2;}
+h1{color: #e2e2e2;}
+
+img.rounded-corners {
+  border-radius: 200px;
+  
+}
+
+.indexcontent{
+  margin-top: 70px;
+  margin-right: 15px;
+}
+
+.logos{
+  margin-top: 60px;
+  margin-right: 10px;
+}
+p.ex1 { 
+  padding-right: 300px;
+}
+
+
+.header{
+  position: fixed;
+  color: #f1f1f1;
+  background: #FE7F2D;
+  height: 50px;
+  top: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+
+.footer {
+  height: 60px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #FE7F2D;
+  color: white;
+  text-align: center;
+}
+
+/*about me*/
+#map {
+  margin: 0 auto;
+  width: 100%;
+  height: 400px;
+  background-color: grey;
+}
+
+
+/*PORTFOLIO/*for Shaun Ittner */
+.cpu
+{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container 
+{
+  width:500px;
+  margin: 0 auto;
+  color: #e2e2e2;}
+}
+h2
+{
+  font-size-adjust:auto;
+}
+.portcontent{
+  margin-right: 10px;
+  margin-bottom:  200px;
+}
+.github1 {
+  border: 2px solid gray;
+  width: 200px;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+.github2 {
+  border: 2px solid gray;
+  width: 200px;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+.github3 {
+  border: 2px solid gray;
+  width: 200px;
+  padding: 10px;
+  margin: 0 auto;
+}
+.linkedin {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*portpar{ /* portfolio paragraph*/
+  padding-top: 50px;
+  padding-right: 80px;
+  padding-bottom: 20px;
+  padding-left: 80px;
+}
+
+
+
+
+
